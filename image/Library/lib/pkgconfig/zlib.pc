@@ -1,0 +1,13 @@
+prefix=C:/Genrative Ai - basic/project/Text to image/image/Library
+exec_prefix=C:/Genrative Ai - basic/project/Text to image/image/Library
+libdir=C:/Genrative Ai - basic/project/Text to image/image/Library/lib
+sharedlibdir=C:/Genrative Ai - basic/project/Text to image/image/Library/lib
+includedir=C:/Genrative Ai - basic/project/Text to image/image/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
