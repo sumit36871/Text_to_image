@@ -12,7 +12,7 @@ st.write("Enter a text description to generate an Image")
 st.sidebar.header("Configuration")
 api_url = st.sidebar.text_input(
     "Backend API URL",
-    "https://4adc-34-142-161-84.ngrok-free.app"  # You'll replace this with the ngrok URL from Colab
+    "https://209c-34-143-211-205.ngrok-free.app"  # You'll replace this with the ngrok URL from Colab
 )
 
  # Main interface
@@ -63,7 +63,7 @@ st.markdown(
 }
 </style>
 <div class="footer">
-    Created with ❤️ by Sumit Yadav| <a href="https://github.com/jitender-insights" target="_blank">GitHub</a>
+    Created with ❤️ by Sumit Yadav| <a href="https://github.com/sumit36871/Text_to_image" target="_blank">GitHub</a>
 </div>
 """,
 unsafe_allow_html=True

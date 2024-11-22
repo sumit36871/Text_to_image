@@ -14,7 +14,7 @@ This project is a Streamlit-based web application with a FastAPI backend for gen
 
 1. Clone this repository:
    ```
-   git clone https://github.com/jitender-insights/Text-to-Image-Project.git
+   git clone https://github.com/sumit36871/Text_to_image.git
    ```
 
 2. Create a virtual environment and activate it:
